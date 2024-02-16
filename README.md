@@ -1,2 +1,2 @@
-# C-introduction
+# Mini Projects
 program for CS50
